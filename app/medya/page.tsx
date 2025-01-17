@@ -1,0 +1,45 @@
+"use client"
+import FeaturesBento from "@/components/feature-bento";
+import { GithubIcon } from "@/components/icons";
+import Integrations from "@/components/integrations";
+import { LastButNotLeast } from "@/components/last-but-not-least";
+import LightBg from "@/components/light-bg";
+import { title } from "@/components/primitives";
+import PrototypeImg from "@/components/prototype-img";
+import { siteConfig } from "@/config/site";
+import { Link } from "@nextui-org/react";
+import Badge from "@/components/chip";
+
+import { button as buttonStyles } from "@nextui-org/theme";
+
+
+
+
+export default function PricingPage() {
+
+
+  return (
+    <div>
+      <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10 ">
+      
+      <div className="inline-block max-w-sm lg:max-w-4xl text-center justify-center text-2xl">
+        <h1 className={title({ size: "lg" })}>Sizlerle, &nbsp;</h1>
+        <h1 className={title({ color: "violet", size: "lg" })}>
+        Her Yerde&nbsp;
+        </h1>
+        <br />
+        
+        <h1 className={title({ color: "yellow", size: "lg" })}>Birlikteyiz!</h1>
+      
+        <h2 className="font-normal text-gray-500 py-2">
+          Büyük bir maceranın ilk adımları burada başladı!
+        </h2>
+      </div>
+    
+      <LightBg />
+      <Integrations />
+      <LastButNotLeast />
+    </section>
+    </div>
+  );
+}
