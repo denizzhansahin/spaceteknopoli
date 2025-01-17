@@ -27,7 +27,7 @@ function LightBgTwitter() {
           radius: "full",
           variant: "shadow",
         })}
-        href={siteConfig.links.youtube}
+        href={siteConfig.links.instagram}
       >
 
         Instagram!
