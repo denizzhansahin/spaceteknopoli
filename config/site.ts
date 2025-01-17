@@ -54,6 +54,10 @@ export const siteConfig = {
       label: "Hakkımızda",
       href: "/about",
     },
+    {
+      label:"İletişim",
+      href: "/iletisim",
+    }
   ],
   links: {
     github: "https://github.com/denizzhansahin/",

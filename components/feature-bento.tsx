@@ -26,7 +26,7 @@ export default function FeaturesBento() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="https://nextui.org/images/card-example-4.jpeg"
+          src="AgroAlert-Sunum11102024-SON.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
         <CardFooter className="absolute bg-white/30 bottom-0 border-t-1 border-zinc-100/50 z-10 justify-between">
