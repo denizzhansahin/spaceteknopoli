@@ -68,6 +68,15 @@ export const siteConfig = {
     iletisim: "/iletisim",
     playstore:"https://play.google.com/store/apps/dev?id=9221158722118390923",
     tiktok:"https://www.tiktok.com/@kafalaragoreteknopoli",
-    instagram:"https://www.instagram.com/spaceteknopoli/"
+    instagram:"https://www.instagram.com/spaceteknopoli/",
+    ai_tarim:"https://github.com/denizzhansahin/plaka_tespit_sistemi",
+    eticaret:"https://e-ticaret-nextjs-gemini-python.vercel.app/",
+    haberler:"https://denizzhansahin.github.io/haberlerNextJs/",
+    kutuphane:"https://play.google.com/store/apps/details?id=com.bogazliyan.ktphaneuygulamas&hl=en_US",
+    yozgathaber:"https://play.google.com/store/apps/details?id=com.akinolsahin.haberler&hl=en_US",
+    bogazliyan:"https://play.google.com/store/apps/details?id=com.bogazliyan.myapplication2&hl=en_US",
+    randevuApp:"https://play.google.com/store/apps/details?id=com.bogazliyan.randevuapp&hl=en_US",
+    qrcode:"https://play.google.com/store/apps/details?id=com.denizhansahin.qrcode&hl=en_US",
+    anket66:"https://play.google.com/store/apps/details?id=com.bogazliyan.anket66&hl=en_US"
   },
 };

@@ -10,6 +10,9 @@ import {
   Button,
 } from "@nextui-org/react";
 
+import { Link } from "@nextui-org/link";
+import { siteConfig } from "@/config/site";
+
 export default function FeaturesBentoProjeler() {
   return (
     <div className=" gap-4 grid grid-cols-12 grid-rows-2 px-8 mt-20">
@@ -35,7 +38,7 @@ export default function FeaturesBentoProjeler() {
             <p className="text-black text-tiny text-white/60">En güncel teknolojileri kullanın.</p>
           </div>
           <Button className="text-tiny" color="primary" radius="full" size="sm">
-            Hadi Öğrenin
+          Geliştirme Aşamasında
           </Button>
         </CardFooter>
       </Card>
@@ -60,9 +63,11 @@ export default function FeaturesBentoProjeler() {
             <p className="text-black text-tiny text-white/60">Eviniz, iyseriniz ve daha fazlası güvende.</p>
             <p className="text-black text-tiny text-white/60">Anlık ve güçlü bir sistem sahibi olun.</p>
           </div>
+          <Link isExternal href={siteConfig.links.ai_tarim}>
           <Button className="text-tiny" color="primary" radius="full" size="sm">
-            Hadi Öğrenin
+            Hemen Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px]">
@@ -86,9 +91,11 @@ export default function FeaturesBentoProjeler() {
             <p className="text-black text-tiny text-white/60">Ürününüz için en iyi içerik üretimini yapar.</p>
             <p className="text-black text-tiny text-white/60">Mağazanız için AI destekli yönetim sistemidir.</p>
           </div>
+          <Link isExternal href={siteConfig.links.eticaret}>
           <Button className="text-tiny" color="primary" radius="full" size="sm">
             Hemen Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card
@@ -111,9 +118,11 @@ export default function FeaturesBentoProjeler() {
             <p className="text-white/60 text-tiny">En güncel haberler için burası tam senlik! Kullanımı çok kolay!</p>
             <p className="text-white/60 text-tiny">Okumak öğrenmek için tam sana göre bir uygulama.</p>
           </div>
-          <Button className="text-white/60" color="primary" radius="full" size="sm">
+          <Link isExternal href={siteConfig.links.haberler}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
             Hemen Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card
@@ -149,9 +158,11 @@ export default function FeaturesBentoProjeler() {
               </p>
             </div>
           </div>
-          <Button radius="full" size="sm">
-            Google Play ile Keşfet!
+          <Link isExternal href={siteConfig.links.kutuphane}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
+          Google Play ile Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px]">
@@ -184,9 +195,11 @@ export default function FeaturesBentoProjeler() {
               </p>
             </div>
           </div>
-          <Button radius="full" size="sm">
-            Google Play ile Keşfet!
+          <Link isExternal href={siteConfig.links.yozgathaber}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
+          Google Play ile Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px]">
@@ -219,9 +232,11 @@ export default function FeaturesBentoProjeler() {
               </p>
             </div>
           </div>
-          <Button radius="full" size="sm">
-            Google Play ile Keşfet!
+          <Link isExternal href={siteConfig.links.bogazliyan}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
+          Google Play ile Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px]">
@@ -254,9 +269,11 @@ export default function FeaturesBentoProjeler() {
               </p>
             </div>
           </div>
-          <Button radius="full" size="sm">
-            Google Play ile Keşfet!
+          <Link isExternal href={siteConfig.links.randevuApp}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
+          Google Play ile Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card
@@ -288,9 +305,11 @@ export default function FeaturesBentoProjeler() {
               </p>
             </div>
           </div>
-          <Button radius="full" size="sm">
-            Google Play ile Keşfet!
+          <Link isExternal href={siteConfig.links.qrcode}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
+          Google Play ile Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card
@@ -326,9 +345,11 @@ export default function FeaturesBentoProjeler() {
               </p>
             </div>
           </div>
-          <Button radius="full" size="sm">
-            Google Play ile Keşfet!
+          <Link isExternal href={siteConfig.links.anket66}>
+          <Button className="text-tiny" color="primary" radius="full" size="sm">
+          Google Play ile Keşfet!
           </Button>
+          </Link>
         </CardFooter>
       </Card>
       
