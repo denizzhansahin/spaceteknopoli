@@ -11,6 +11,8 @@ import { Link } from "@nextui-org/react";
 import Badge from "@/components/chip";
 
 import { button as buttonStyles } from "@nextui-org/theme";
+import LightBgYouTube from "./medya-component-youtube";
+import LightBgTwitter from "./medya-component-instagram-twitter";
 
 
 
@@ -36,8 +38,8 @@ export default function PricingPage() {
         </h2>
       </div>
     
-      <LightBg />
-      <Integrations />
+      <LightBgYouTube/>
+      <LightBgTwitter/>
       <LastButNotLeast />
     </section>
     </div>

@@ -62,6 +62,8 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/company/spaceteknopoli/",
     discord: "#",
     iletisim: "/iletisim",
-    playstore:"https://play.google.com/store/apps/dev?id=9221158722118390923"
+    playstore:"https://play.google.com/store/apps/dev?id=9221158722118390923",
+    tiktok:"https://www.tiktok.com/@kafalaragoreteknopoli",
+    instagram:"https://www.instagram.com/spaceteknopoli/"
   },
 };
