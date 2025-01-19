@@ -1,7 +1,6 @@
-import FeaturesBento from "@/components/feature-bento";
-import { title } from "@/components/primitives";
-import { LastButNotLeast } from "@/components/last-but-not-least";
-import { ReactGorsel } from "./gorsel";
+import { title } from "@/components/primitives"
+import { LastButNotLeast } from "@/components/last-but-not-least"
+import { ReactGorsel } from "./gorsel"
 
 
 export default function DocsPage() {

@@ -1,17 +1,14 @@
-"use client";
+"use client"
 
-import React from "react";
+import React from "react"
 import {
   Card,
   CardHeader,
-  CardBody,
-  CardFooter,
   Image,
-  Button,
-} from "@nextui-org/react";
 
-import { Link } from "@nextui-org/link";
-import { siteConfig } from "@/config/site";
+} from "@nextui-org/react"
+
+
 
 export default function FeaturesBentoFaaliyetlerAlanlar() {
   return (

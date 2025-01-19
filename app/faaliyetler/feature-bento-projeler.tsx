@@ -1,14 +1,12 @@
-"use client";
+"use client"
 
-import React from "react";
+import React from "react"
 import {
   Card,
   CardHeader,
-  CardBody,
-  CardFooter,
   Image,
-  Button,
-} from "@nextui-org/react";
+
+} from "@nextui-org/react"
 
 
 import { Link } from "@nextui-org/link";

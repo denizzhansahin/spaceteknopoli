@@ -1,18 +1,10 @@
 "use client"
-import FeaturesBento from "@/components/feature-bento";
-import { GithubIcon } from "@/components/icons";
-import Integrations from "@/components/integrations";
-import { LastButNotLeast } from "@/components/last-but-not-least";
-import LightBg from "@/components/light-bg";
-import { title } from "@/components/primitives";
-import PrototypeImg from "@/components/prototype-img";
-import { siteConfig } from "@/config/site";
-import { Link } from "@nextui-org/react";
-import Badge from "@/components/chip";
 
-import { button as buttonStyles } from "@nextui-org/theme";
-import LightBgYouTube from "./medya-component-youtube";
-import LightBgTwitter from "./medya-component-instagram-twitter";
+import { LastButNotLeast } from "@/components/last-but-not-least"
+import { title } from "@/components/primitives"
+
+import LightBgYouTube from "./medya-component-youtube"
+import LightBgTwitter from "./medya-component-instagram-twitter"
 
 
 

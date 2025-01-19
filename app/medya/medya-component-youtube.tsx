@@ -1,8 +1,8 @@
-"use client";
-import { Chip, Link } from "@nextui-org/react";
-import React from "react";
-import { button as buttonStyles } from "@nextui-org/theme";
-import { siteConfig } from "@/config/site";
+"use client"
+import { Chip, Link } from "@nextui-org/react"
+import React from "react"
+import { button as buttonStyles } from "@nextui-org/theme"
+import { siteConfig } from "@/config/site"
 
 function LightBgYouTube() {
   return (

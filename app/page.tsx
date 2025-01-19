@@ -1,18 +1,15 @@
-import { Link } from "@nextui-org/link";
-import { Snippet } from "@nextui-org/snippet";
-import { Code } from "@nextui-org/code";
-import { button as buttonStyles } from "@nextui-org/theme";
+import { Link } from "@nextui-org/link"
+import { button as buttonStyles } from "@nextui-org/theme"
 
-import { siteConfig } from "@/config/site";
-import { title, subtitle } from "@/components/primitives";
-import { GithubIcon } from "@/components/icons";
-import Badge from "@/components/chip";
-import TrustedBy from "@/components/trusted";
-import PrototypeImg from "@/components/prototype-img";
-import FeaturesBento from "@/components/feature-bento";
-import LightBg from "@/components/light-bg";
-import Integrations from "@/components/integrations";
-import { LastButNotLeast } from "@/components/last-but-not-least";
+import { siteConfig } from "@/config/site"
+import { title } from "@/components/primitives"
+import { GithubIcon } from "@/components/icons"
+import Badge from "@/components/chip"
+import PrototypeImg from "@/components/prototype-img"
+import FeaturesBento from "@/components/feature-bento"
+import LightBg from "@/components/light-bg"
+import Integrations from "@/components/integrations"
+import { LastButNotLeast } from "@/components/last-but-not-least"
 
 export default function Home() {
   return (

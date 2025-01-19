@@ -1,7 +1,6 @@
-import FeaturesBento from "@/components/feature-bento";
-import { title } from "@/components/primitives";
-import FeaturesBentoProjeler from "./feature-bento-projeler";
-import { LastButNotLeast } from "@/components/last-but-not-least";
+import { title } from "@/components/primitives"
+import FeaturesBentoProjeler from "./feature-bento-projeler"
+import { LastButNotLeast } from "@/components/last-but-not-least"
 
 export default function DocsPage() {
   return (
