@@ -15,6 +15,7 @@ export default function DocsPage() {
           </h1>
           <br />
           <h1 className={title({ size: "lg" })}>Küçük Bir Hayaldi, &nbsp;</h1>
+          <h1 className={title({  color: "violet", size: "lg" })}>Şimdi Hayaller Gerçek Oluyor. &nbsp;</h1>
           <br />
           <br />
           <ReactGorsel />
