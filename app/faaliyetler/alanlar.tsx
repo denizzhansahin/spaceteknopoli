@@ -30,7 +30,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="AgroAlert-Sunum11102024-SON.png"
+          src="logo_icon_kutuphane/11.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
  
@@ -48,7 +48,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="1695238641742.jpeg"
+          src="logo_icon_kutuphane/12.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -66,7 +66,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="Gemini_Generated_Image_bq8eifbq8eifbq8e.jpeg"
+          src="logo_icon_kutuphane/13.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -83,7 +83,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card example background"
           className="z-0 w-full h-full scale-125 -translate-y-6 object-cover"
-          src="1719661128037.jpeg"
+          src="logo_icon_kutuphane/14.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -104,7 +104,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Relaxing app background"
           className="z-0 w-full h-full object-cover"
-          src="271493098-cf88555f-653c-4170-a25e-82653edf4c9d.png"
+          src="logo_icon_kutuphane/15.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -122,7 +122,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="1726314890940.jpeg"
+          src="logo_icon_kutuphane/16.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -140,7 +140,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="245741683-e02ee35f-d147-4fa2-833e-f4b3981fd692.jpg"
+          src="logo_icon_kutuphane/17.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0">
           
@@ -160,7 +160,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="268446453-032bfd1d-e822-4b8d-acb8-6899c3eaa680.png"
+          src="logo_icon_kutuphane/18.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -177,7 +177,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Card example background"
           className="z-0 w-full h-full scale-125 -translate-y-6 object-cover"
-          src="logo_iconn.png"
+          src="logo_icon_kutuphane/19.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
@@ -198,7 +198,7 @@ export default function FeaturesBentoFaaliyetlerAlanlar() {
           removeWrapper
           alt="Relaxing app background"
           className="z-0 w-full h-full object-cover"
-          src="logo_icon_kutuphane (1).png"
+          src="logo_icon_kutuphane/20.png"
         />
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
