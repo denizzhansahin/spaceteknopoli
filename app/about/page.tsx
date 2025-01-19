@@ -26,7 +26,7 @@ export default function DocsPage() {
             Devam eden süreçte önemli bir karar aldık, ismimizin anlamı yeterince anlaşılmıyordu ve hedefimiz doğrultusunda yeni bir isim belirledik. Space Teknopoli ismi ise tam olarak burada doğdu. "Space" ile teknolojinin sonsuz bir uzay kadar çok büyük olduğunu belirtmek istedik. "Teknpoli" kelimesi burada çok teknoloji anlamını koruyacaktı. Bundan sonra ise teknolojinin sonsuz uzayında sonsuz bir teknoloji yolculuğu ve teknolojinin her alanda çok yaşandığını belirtmek olarak hedefimizi belirledik.
             Bununla birlikte logomuzdaki roket ise bu yolculukta geliştirmeyi hayal ettiğimiz bir araçtır, bu roket sayesinde istediğimiz yere ulaşmayı hedefliyoruz.
             Sloganımız ise sonsuz teknoloji uzayında sonsuz teknoloji olarak belirledik.
-            Renklerimiz ise neden mavi ve mor diye soracak olursanız enerjik olmayı temsil ettiği seçtik.
+            Renklerimiz ise neden mavi ve mor diye soracak olursanız enerjik olmayı temsil ettiği için seçtik.
             İlerleyen süreçte mobil uygulama geliştirme, yapay zeka teknolojileri geliştirme, WEB teknolojileri geliştirme ve diğer faaliyet alanlarımız ile asıl hedeflerimizi belirledik. Bu alanda birçok proje geliştirdik. Ayrıca katıldığımız birçok hackathon ve ideathon ise bizler için güzel deneyimler oldu.
             Asıl hedefimiz teknolojinin sonsuz evreninde çıktığımız bu yolculukta insanlar için faydalı teknolojiler geliştirmek, açık kaynak yazılımlara katkı sağlamak ve dünyamızın daha iyi yaşanabilir yer olmasını sağlamak istiyoruz.
             Ülkemizin teknoloji alanında gelişmesini ve Milli Teknoloji Hamlesine katkı sağlamak asıl hedeflerimiz arasında yer almaktadır.
