@@ -40,6 +40,8 @@ export default function DocsPage() {
         <h2 className={title({ color: "yellow", size: "sm" })}>
           <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/denizzhan-sahin/">Denizhan Şahin - LinkedIn</a>
           <br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mehmet-akinol-0725381a/">Mehmet Akınol - LinkedIn</a>
+          <br/>
           <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/resul-ekrem-%C3%B6zt%C3%BCrk-026893271/">Resul Ekrem Öztürk - LinkedIn</a>
         </h2>
         <LastButNotLeast />
